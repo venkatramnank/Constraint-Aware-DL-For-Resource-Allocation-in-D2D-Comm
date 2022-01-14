@@ -22,7 +22,9 @@ This project is done as a part of the internship at the **Next Generation labs a
 
 ## Important papers to look into
 [A Primal-Dual Formulation for Deep Learning with Constraints](https://www.cse.iitd.ac.in/~parags/papers/conference/2019/pdfdlc-nips19.pdf)
+
 [Lagrangian Duality for Constrained Deep Learning](https://arxiv.org/pdf/2001.09394.pdf)
+
 [Deep Learning based Wireless Resource Allocation with Application to Vehicular Networks](https://arxiv.org/abs/1907.03289)
 
 ## Future work
