@@ -18,7 +18,7 @@ The above code is written in Python3 and using Tensorflow as the DL library
 The Mathematics and the work can be understood better by reading the [report](https://github.com/venkatramnank/Constraint-Aware-DL-For-Resource-Allocation-in-D2D-Comm/blob/main/IISC_report_VenkatRamnanK.docx.pdf)
 
 ## Acknowledgments
-This project is done as a part of the internship at the **Next Generation labs at the ECE Department of the Indian Institute Science**.I thank Prof Neelesh B Mehta,and Bala Venkata Ramulu Gorantla, for continuous guidance, teaching, and encouragement throughout the internship period and the project.
+This project is done as a part of the internship at the **Next Generation labs at the ECE Department of the Indian Institute Science**. I thank Prof Neelesh B Mehtaand Bala Venkata Ramulu Gorantla for continuous guidance, teaching, and encouragement throughout the internship period and the project.
 
 ## Important papers to look into
 [A Primal-Dual Formulation for Deep Learning with Constraints](https://www.cse.iitd.ac.in/~parags/papers/conference/2019/pdfdlc-nips19.pdf)
